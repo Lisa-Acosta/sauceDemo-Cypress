@@ -1,0 +1,20 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas del la web Sauce Demo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "sauce",
+    "demo"
+  ],
+  "author": "Lisa Acosta",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
